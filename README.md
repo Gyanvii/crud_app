@@ -60,7 +60,7 @@ python app.py
 
 6. Open in browser
 
-Go to 👉 http://127.0.0.1:5000
+Go to [👉 http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 
 📜 License
